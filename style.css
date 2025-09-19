@@ -1,0 +1,26 @@
+header h1 {
+    color: deepskyblue
+    ;
+    background-color: blue;
+}
+body {
+    background-color: lawngreen;
+    font-family: sans-serif;
+}
+main img {
+    margin-left: 150px;
+
+}
+
+main h2 {
+    text-align: center;
+
+}
+footer {
+    background-color: blue;
+    color: white;
+}
+footer a{
+    background-color: blue;
+    color: white;
+}
